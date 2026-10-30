@@ -1,0 +1,11 @@
+.venv
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+chunks/
+models/
+storage/
+.cache/
